@@ -34,3 +34,6 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 ## Practice Outcome
 1. Have a good understanding of grid in designing even columns.
 2. Utilize clean code methodology, use relevant names and define variables to prevent repeating values.
+
+## Deployment
+Successfully deploy design at [vercel.com](vercel.com).</br>[check the design here](https://fem-challenge-3-column-card-preview.vercel.app/)
